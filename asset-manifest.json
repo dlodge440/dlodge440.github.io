@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e333e1ce.css",
+    "main.js": "/static/js/main.c165ec4b.js",
+    "static/media/freedge_LogoV2.png": "/static/media/freedge_LogoV2.7707a75872668732052c.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.e333e1ce.css.map": "/static/css/main.e333e1ce.css.map",
+    "main.c165ec4b.js.map": "/static/js/main.c165ec4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e333e1ce.css",
+    "static/js/main.c165ec4b.js"
+  ]
+}
